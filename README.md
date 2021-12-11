@@ -4,6 +4,10 @@
 ## ✨**Sejam bem vindos ao meu perfil**✨
 
 <div>
+    <img width=450rem src="https://github-readme-stats.vercel.app/api/wakatime?username=Anderson_J&theme=github_dark&custom_title=Tempo que fiquei codando essa semana">
+</div>
+
+<div>
     <img width="450rem" src="https://github-readme-stats.vercel.app/api?username=Anderson-J&theme=github_dark&show_icons=true&custom_title=Status">
     <br>
     <img width="450rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson-J&theme=github_dark&layout=compact&custom_title=Repositórios">
