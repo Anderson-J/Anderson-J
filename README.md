@@ -10,7 +10,7 @@
 <div>
     <img width="450rem" src="https://github-readme-stats.vercel.app/api?username=Anderson-J&theme=github_dark&show_icons=true&custom_title=Status">
     <br>
-    <img width="450rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson-J&theme=github_dark&layout=compact&custom_title=Repositórios">
+    <img width="450rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson-J&layout=compact&theme=github_dark&layout=compact&custom_title=Repositórios">
 </div>
 
 ### 🌱 Estou aprendendo essas linguagens:
